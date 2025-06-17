@@ -13,9 +13,6 @@ Transform your ordinary webcam into an AI-powered surveillance system that sees 
 
 **Live Visual Feedback**: Watch as bounding boxes and confidence scores appear in real-time, showing you exactly what your AI is thinking.
 
-## Built on Giants' Shoulders
-This powerhouse implementation builds upon the brilliant foundation laid by [Dipankar Medhi](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993), enhanced and turbocharged for maximum performance.
-
 ## Core Features
 - **Real-Time Detection Engine**: Process video frames at breakneck speeds using state-of-the-art YOLO architecture
 - **Fully Customizable Pipeline**: Drop in any YOLO model and specify custom output paths
@@ -31,7 +28,7 @@ This powerhouse implementation builds upon the brilliant foundation laid by [Dip
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/KPCOFGS/Object_Detection.git
+git clone https://github.com/Ashrafgalib-beep/Object_capture.git
 cd Object_Detection
 ```
 
